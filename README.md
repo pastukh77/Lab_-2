@@ -20,6 +20,10 @@ Main module allows users to input a year of shooting, coordinates. As a result, 
 2. Layer with markers with film names;
 3. Layer with lines showing distance and having diiferent colors dut to the distance from inputed coordinates.
 
+HTML structure:
+HTML(Hypertext Markup Language) - a standart markup that is used to create web-sites. Main tags in HTML are <html>, </html> which begin and end HTML file(script has the same structure of tag), <head>, <body> which are responsible for changing in heading of web page and it's main body accordingly. Also CSS(Cascading Style Sheets) is used to change a style and design of pages. Javascript code is used to crate maps with OpenStreetMap.
+
+Conclusions:
 Current program can be useful to plan your trip and visit places of your favorite films scenes or to analize development in cinema industry of defferent regions and countries.
 
 ![Знімок екрана 2020-02-19 о 01 19 14](https://user-images.githubusercontent.com/60693273/74786671-f61ee700-52b5-11ea-8197-3d1a3b8759b9.png)
