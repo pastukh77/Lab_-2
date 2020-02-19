@@ -19,6 +19,7 @@ Main module allows users to input a year of shooting, coordinates. As a result, 
 1. Main layer with a map;
 2. Layer with markers with film names;
 3. Layer with lines showing distance and having diiferent colors dut to the distance from inputed coordinates.
+Also module tqdm is used to show the progres bar, reverse_geocode is used to find the country by coordinates, folium is used for creating map and marking it, geopy for finding coordinates by inputed location.
 
 HTML structure:
 HTML(Hypertext Markup Language) - a standart markup that is used to create web-sites. Main tags in HTML are <html>, </html> which begin and end HTML file(script has the same structure of tag), <head>, <body> which are responsible for changing in heading of web page and it's main body accordingly. Also CSS(Cascading Style Sheets) is used to change a style and design of pages. Javascript code is used to crate maps with OpenStreetMap.
