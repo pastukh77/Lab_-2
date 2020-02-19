@@ -19,6 +19,7 @@ Main module allows users to input a year of shooting, coordinates. As a result, 
 1. Main layer with a map;
 2. Layer with markers with film names;
 3. Layer with lines showing distance and having diiferent colors dut to the distance from inputed coordinates.
+
 Also module tqdm is used to show the progres bar, reverse_geocode is used to find the country by coordinates, folium is used for creating map and marking it, geopy for finding coordinates by inputed location.
 
 HTML structure:
